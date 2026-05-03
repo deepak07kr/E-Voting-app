@@ -1,24 +1,11 @@
 # E-Voting App
 
-The E-Voting DApp is designed to eliminate fraud and increase transparency in elections by leveraging blockchain technology.
-* Votes are recorded on the Ethereum blockchain
+Blockchain-based voting system using Ethereum, MetaMask, and Ganache.
 
-* Each voter can vote only once
-
-* No one can modify or delete votes
-
-* Results are automatically calculated
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaBZJ-VFnDKbUbDKJfIIFhgYhBvVH1_eDtA&usqp=CAU" height="200px" width="280px"/>
-
-<b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
-
-## About the D-App
-
-The E-Voting app has 2 main users:
-1. Admin 
-2. Voter
-
+## Features
+- Add candidates
+- One vote per account
+- Secure blockchain voting
 Admin can create an election and add candidates to the Ethereum Blockchain
 
 Users(Voters) can select an election and vote for a candidate of their choice
@@ -66,3 +53,7 @@ npm run dev
 ```
 
 &copy; 2026 Deepak Kumar
+=======
+# E-Voting-app
+a scalable voting app built by using blockChain technology
+>>>>>>> 00780af1a4714f3474b5247b708c7da1de5dfa6a
